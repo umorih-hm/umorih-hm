@@ -1,6 +1,31 @@
 ## Hi👋 Welcome to my Github!
 
+## Profile
 
+### Language
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+
+### Framework
+
+* Vue / Nuxt.js
+* React / Next.js
+
+### Library
+
+* Tailwind CSS
+* Vuetify
+* NextUI
+
+### Others
+
+* LINE API
+* AWS(S3, Cluodfront)
+* Vercel
+* Google App Script
 
 ## Stats
 <p align="left">
