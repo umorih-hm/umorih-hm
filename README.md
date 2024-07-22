@@ -4,9 +4,6 @@
   <a href="https://github.com/umorih-hm/umorih-hm/">
     <img src="https://komarev.com/ghpvc/?username=umorih-hm" alt="umorih-hm" />
   </a>
-  <a href="http://twitter.com/umorih_hm">
-    <img height="20" src="https://img.shields.io/twitter/follow/umorih_hm?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/umorih-hm">
     <img height="20" src="https://img.shields.io/github/followers/umorih-hm?label=follow&logo=github&style=flat" />
   </a>
