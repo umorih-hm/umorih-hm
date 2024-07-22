@@ -23,6 +23,7 @@
 ### Others
 
 * LINE API
+* Notion API
 * AWS(S3, Cluodfront)
 * Vercel
 * Google App Script
