@@ -1,5 +1,7 @@
 ## Hi👋 Welcome to my Github!
 
+
+
 ## Stats
 <p align="left">
   <a href="https://github.com/umorih-hm/umorih-hm/">
@@ -24,4 +26,12 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=umorih-hm&theme=gruvbox)
+
+## Repositories
+
+* [「LINE職人」～リスナーとラジオ番組をつなぐ ”令和のハガキ職人”向け LINE BOT～](https://github.com/umorih-hm/line-shokunin)
+* [「UMOAMA ばなし」～UMORiH（夫）と AMANERiY（妻）の Web サイト～](https://github.com/umorih-hm/umoama-banashi-v3)
+
+
+
 
